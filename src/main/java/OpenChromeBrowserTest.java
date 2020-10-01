@@ -31,11 +31,11 @@ public class OpenChromeBrowserTest {
 
 
     }
-    @Test
-    public void clickOnAvatar(){
-        wd.findElement(By.id("gb_70")).click();
-
-    }
+//    @Test
+//    public void clickOnAvatar(){
+//        wd.findElement(By.id("gb_70")).click();
+//
+//    }
     public void changeLanguage(){
 
     }
